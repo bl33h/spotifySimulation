@@ -20,7 +20,7 @@ def Exhibir_tabla( ):
         print()
 
 # Utilizar archivo CSV y separación
-with open("Registros_canciones.csv", "r", encoding = "latin-1") as myFile:
+with open("SongsRegister.csv", "r", encoding = "latin-1") as myFile:
     registros = {}
     
     header = myFile.readline().rstrip().split(",")
