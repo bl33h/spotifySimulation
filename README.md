@@ -1,4 +1,4 @@
-# SpotifySimulatione
+# SpotifySimulation
 A program that prints the playlist data from a csv file in a music player, it also identifies the longest song.
 ## Files
 - src: the code that implements the solution.
