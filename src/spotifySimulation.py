@@ -1,7 +1,7 @@
 #/**
  #* *Copyright (C), 2022-2023, Sara Echeverria (bl33h)
     # *@author Sara Echeverria
-    # *FileName: SpotifySimulation
+    # *FileName: spotifySimulation
     # @version: I
     #- Creacion: 25/04/2021
     #- Ultima modificacion: 20/07/2022
