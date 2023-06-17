@@ -1,4 +1,4 @@
-# SpotifySimulation
+# spotifySimulation
 
 A program that allows users to manage and perform operations on a collection of song records. The code reads song records from a CSV file, stores them in a dictionary, and provides various options to interact with the records.
 
